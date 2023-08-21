@@ -8,7 +8,9 @@ public class Auto {
     int cantidadCreados;
 
     int cantidadAsientos(){
-        
-    }
 
+    }
+    String verificarintegridad(){
+
+    }
 }

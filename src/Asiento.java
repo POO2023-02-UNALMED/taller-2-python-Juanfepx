@@ -6,4 +6,5 @@ public class Asiento {
     void cambiarColor(String color){
 
     }
+    
 }
