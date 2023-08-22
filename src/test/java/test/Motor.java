@@ -1,7 +1,9 @@
+package test.java.test;
+
 public class Motor {
     int nomeroCilindros;
     String tipo;
-    int registros;
+    int registro;
 
     void cambiarRegistro(int registro){
 
